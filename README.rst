@@ -13,6 +13,10 @@ Quick start
 
     git clone git@github.com:sibtc/django-beginners-guide.git
 
+2. Install widget tweaks module:
+
+    pip install django-widget-tweaks
+    
 2. Create the database:
 
     python manage.py migrate
