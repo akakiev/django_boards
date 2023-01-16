@@ -17,12 +17,12 @@ Quick start
 
     pip install django-widget-tweaks
     
-2. Create the database:
+3. Create the database:
 
     python manage.py migrate
 
-3. Finally, run the development server:
+4. Finally, run the development server:
 
     python manage.py runserver
 
-4. Start the development server and visit http://127.0.0.1:8000/
+5. Start the development server and visit http://127.0.0.1:8000/
