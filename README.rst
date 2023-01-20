@@ -26,3 +26,6 @@ Quick start
     python manage.py runserver
 
 5. Start the development server and visit http://127.0.0.1:8000/
+
+Tutorial:
+    https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/
